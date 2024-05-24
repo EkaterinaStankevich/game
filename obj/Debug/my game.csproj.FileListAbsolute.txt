@@ -1,0 +1,11 @@
+C:\Users\tomke\Downloads\my game\my game\bin\Debug\WindowsFormsPlatformer.exe.config
+C:\Users\tomke\Downloads\my game\my game\bin\Debug\WindowsFormsPlatformer.exe
+C:\Users\tomke\Downloads\my game\my game\bin\Debug\WindowsFormsPlatformer.pdb
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\my game.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\WindowsFormsPlatformer.MainForm.resources
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\WindowsFormsPlatformer.Properties.Resources.resources
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\WindowsFormsPlatformer.exe
+C:\Users\tomke\Downloads\my game\my game\obj\Debug\WindowsFormsPlatformer.pdb
